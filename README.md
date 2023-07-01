@@ -1,5 +1,5 @@
 # CSS-goat-status
-![alt text describing the image](./assets/images/screen2.png)
+![alt text describing the image](./assets/images/screen2.jpeg)
 This Challenge was for me to utilize HTML & CSS.
 The website is responsive with many details
 It has multiple links that work on click
